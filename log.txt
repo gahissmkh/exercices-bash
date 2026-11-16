@@ -1,0 +1,5 @@
+commit ad9b6ce6e0ae861b4da6a5aea860070586b19949
+Author: Gahisse Makhlouf <gahisse.makhlouf@epitech.eu>
+Date:   Mon Nov 16 16:54:31 2026 +0100
+
+    Ex_05
